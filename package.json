@@ -1,0 +1,27 @@
+{
+  "name": "@cley_faye/memcached-socket",
+  "version": "0.1.0",
+  "description": "A simple layer to interface with a memcached socket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CleyFaye/memcached-socket.git"
+  },
+  "keywords": [
+    "node",
+    "memcached",
+    "socket"
+  ],
+  "author": "Gabriel Paul \"Cley Faye\" Risterucci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CleyFaye/memcached-socket/issues"
+  },
+  "homepage": "https://github.com/CleyFaye/memcached-socket#readme",
+  "dependencies": {
+    "esm": "^3.2.15"
+  }
+}
