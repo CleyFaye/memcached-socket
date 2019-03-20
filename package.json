@@ -1,6 +1,6 @@
 {
   "name": "@cley_faye/memcached-socket",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A simple layer to interface with a memcached socket",
   "main": "index.js",
   "scripts": {
