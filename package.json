@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/CleyFaye/memcached-socket#readme",
   "dependencies": {
-    "async-lock": "^1.2.0",
-    "eslint": "^5.15.3",
-    "esm": "^3.2.15"
+    "async-lock": "^1.2.2",
+    "eslint": "^6.2.2",
+    "esm": "^3.2.25"
   }
 }
